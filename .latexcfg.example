@@ -1,0 +1,18 @@
+# LaTeX Project Configuration Example
+# This file demonstrates project-level configuration that overrides global ~/.latexrc
+
+# 💡 Project-specific theme (overrides global theme)
+[Theme]
+active_theme = matrix
+
+# 💡 Project-specific general settings
+[General]
+default_engine = lualatex
+auto_cleanup = true
+editor = code
+
+# 💡 Compilation targets (existing functionality)
+[Targets]
+MAIN_FILE = test_document.tex
+ENGINE = xelatex
+BIB_TOOL = bibtex
