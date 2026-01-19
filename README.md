@@ -14,13 +14,19 @@ alias texmkone='/home/yyt/APPS/sh/latexcompile-simple.sh'
 alias texmk='/home/yyt/APPS/sh/latexcompile-standalone.sh'
 ```
 
-latexcompile-simple.sh效果如下
 
-![Screenshot From 2026-01-19 18-23-47](./figure/Screenshot From 2026-01-19 18-23-47.png)
 
-latexcompile-standalone.sh效果如下
 
-![Screenshot From 2026-01-19 18-23-08](./figure/Screenshot From 2026-01-19 18-23-08.png)
+
+### 效果展示
+
+<p>latexcompile-simple.sh 效果如下：</p>
+<img src="./figure/Screenshot From 2026-01-19 18-23-47.png" width="600" alt="Simple Output">
+
+<p>latexcompile-standalone.sh 效果如下：</p>
+<img src="./figure/Screenshot From 2026-01-19 18-23-08.png" width="600" alt="Standalone Output">
+
+
 
 ---
 
